@@ -18,7 +18,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 ### Links
 
 - Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: [Add live site URL here](https://qr-code-frontendmentor-hanna.netlify.app)
 
 ## My process
 
@@ -30,7 +30,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 ### What I learned
 
 In this project, I learned when to use display block, inline, grid, and flex.
-And I also learned how to make a responsive design, so it'll fit both in mobile and desktop.
+And I also learned how to make a responsive design, so the website will adjust to fit both in mobile and desktop screen size.
 
 ```css
 section {
@@ -50,9 +50,6 @@ Although I still need to learn more about grid, because it's a bit tricky compar
 ### Useful resources
 
 - [Example resource 1](https://stackoverflow.com/questions/48714783/cant-center-a-section-in-css) - This helped me to center the QR code section.
-- [Example resource 2](https://www.example.com) - This is an amazing article which helped me finally understand XYZ. I'd recommend it to anyone still learning this concept.
-
-**Note: Delete this note and replace the list above with resources that helped you during the challenge. These could come in handy for anyone viewing your solution or for yourself when you look back on this project in the future.**
 
 ## Author
 
