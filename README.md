@@ -17,8 +17,8 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: https://qr-code-frontendmentor-hanna.netlify.app/
+- Solution URL: [My Solution](https://www.frontendmentor.io/solutions/responsive-qr-code-site-using-css-flexbox-K6QYFWH2e2)
+- Live Site URL: [My QR Code Website](https://qr-code-frontendmentor-hanna.netlify.app/)
 
 ## My process
 
@@ -26,10 +26,11 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 - Semantic HTML5 markup
 - CSS custom properties
+- CSS flexbox
 
 ### What I learned
 
-In this project, I learned when to use display block, inline, grid, and flex. In this case, I used display flex and set the flex direction to column because if you look at the design preview, it looks like a single column layout.
+I learned when to use display block, inline, grid, and flex. And in this case, I used display flex and set the flex direction to column.
 
 Besides display, I also learned how to make a responsive design, so the website will adjust to fit both mobile and desktop screen sizes.
 
@@ -54,12 +55,13 @@ section {
 
 ### Continued development
 
-I still need to learn more about grid, because it's a bit tricky compared to flexbox.
+I still need to learn more about CSS grid, because it's a bit tricky compared to flexbox.
 
 ### Useful resources
 
-- [stackoverflow](https://stackoverflow.com/questions/48714783/cant-center-a-section-in-css) - This helped me to center the QR code section.
+- [Stackoverflow](https://stackoverflow.com/questions/48714783/cant-center-a-section-in-css) - This site helped me to center the QR code section
+- [Zero to Mastery](https://zerotomastery.io/blog/css-grid-vs-flexbox/#How-CSS-Grid-handles-layout-control) - This site enlighten me about CSS grid and flexbox
 
 ## Author
 
-Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
+Frontend Mentor - [@HannaNashita](https://www.frontendmentor.io/profile/hannanashita)
