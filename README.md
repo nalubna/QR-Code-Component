@@ -38,12 +38,6 @@ section {
   display: flex;
   flex-direction: column;
 }
-
-@media (min-width: 375px) {
-    section {
-        margin: 1rem auto;
-    }
-}
 ```
 
 ### Continued development
