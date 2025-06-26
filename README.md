@@ -64,4 +64,4 @@ I still need to learn more about CSS grid, because it's a bit tricky compared to
 
 ## Author
 
-Frontend Mentor - [@HannaNashita](https://www.frontendmentor.io/profile/hannanashita)
+Frontend Mentor - [@HannaNashita](https://www.frontendmentor.io/profile/HannaNashita)
