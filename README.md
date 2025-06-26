@@ -18,7 +18,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 ### Links
 
 - Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [https://qr-code-frontendmentor-hanna.netlify.app/]
+- Live Site URL: https://qr-code-frontendmentor-hanna.netlify.app/
 
 ## My process
 
@@ -35,8 +35,14 @@ Besides display, I also learned how to make a responsive design, so the website 
 
 ```css
 section {
-  display: flex;
-  flex-direction: column;
+    display: flex;
+    flex-direction: column;
+    background: var(--white);
+    width: 300px;
+    margin: 10rem auto;
+    padding: 1rem;
+    border-radius: 20px;
+    box-shadow: 0 1rem 1rem rgba(69, 76, 83, 0.1);
 }
 ```
 

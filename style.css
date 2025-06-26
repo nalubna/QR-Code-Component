@@ -56,3 +56,11 @@ p {
     font-size: 13px;
     color: var(--slate-500);
 }
+
+
+@media (max-width: 720px) {
+    section {
+        position: fixed;
+        margin: 5rem auto;
+    }
+}
