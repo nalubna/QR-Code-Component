@@ -60,7 +60,6 @@ p {
 
 @media (max-width: 720px) {
     section {
-        position: fixed;
         margin: 5rem auto;
     }
 }
