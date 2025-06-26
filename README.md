@@ -44,6 +44,12 @@ section {
     border-radius: 20px;
     box-shadow: 0 1rem 1rem rgba(69, 76, 83, 0.1);
 }
+
+@media (max-width: 720px) {
+    section {
+        margin: 6rem auto;
+    }
+}
 ```
 
 ### Continued development
@@ -52,7 +58,7 @@ I still need to learn more about grid, because it's a bit tricky compared to fle
 
 ### Useful resources
 
-- [https://stackoverflow.com/questions/48714783/cant-center-a-section-in-css] - This helped me to center the QR code section.
+- [stackoverflow](https://stackoverflow.com/questions/48714783/cant-center-a-section-in-css) - This helped me to center the QR code section.
 
 ## Author
 
