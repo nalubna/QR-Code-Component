@@ -22,6 +22,7 @@ html {
 body {
     background: var(--slate-300);
     font-family: var(--ff-outfit);
+    height: 100vh;
 }
 
 section {
